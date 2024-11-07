@@ -5,7 +5,7 @@ const nextConfig = {
       {
         source: "/",
         //Aqui cambiamos la ruta a nuestro antojo
-        destination: "/public/perfil",
+        destination: "/public/home",
         permanent: true,
       },
     ];
